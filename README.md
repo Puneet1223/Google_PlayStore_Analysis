@@ -22,6 +22,8 @@ Ratings are left-skewed, with most apps rated between 3.5 and 5.0.
 Reviews, Size, Installs, and Price are highly right-skewed.
 Most apps were last updated in 2018–2019.
 
+![Ratings Distribution](images/ratings_distribution.png)
+
 ## Categorical Features
 Majority of apps are Free.
 Most apps are rated suitable for Everyone.
