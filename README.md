@@ -1,6 +1,7 @@
 # Google Play Store Analysis
 This project performs Exploratory Data Analysis (EDA) and Feature Engineering (FE) on the Google Play Store dataset to uncover trends, patterns, and insights about apps, their categories, installations, ratings, and user preferences.
 # Project Structure
+![Project Structure](images/STRUCTURE.png)
 📁  Google_PlayStore_Analysis
 ├── EDA+And+FE+Google+Playstore.ipynb   # Main Jupyter Notebook with EDA & FE
 ├── requirements.txt                  # Dependencies
